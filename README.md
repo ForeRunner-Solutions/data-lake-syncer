@@ -1,1 +1,1 @@
-# syncer
+# data-lake-syncer
